@@ -1,0 +1,2 @@
+# MobilAlkalmazas
+Mobil alkalmazás projektmunka
