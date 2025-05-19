@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59230121200",
+    "project_id": "okmanyirodaugyintezes",
+    "storage_bucket": "okmanyirodaugyintezes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59230121200:android:51b81b19cabc9f0efde635",
+        "android_client_info": {
+          "package_name": "com.example.okmanyirodai_ugyintezes_idopontfoglalo_alkalmazas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59230121200-hcbet4c4h1gq39dn9c5ao79v7t8itc5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okmanyirodai_ugyintezes_idopontfoglalo_alkalmazas",
+            "certificate_hash": "e562980ab224db635a87df944b7ae29d25a55543"
+          }
+        },
+        {
+          "client_id": "59230121200-a1ufiqpfc0lpu1kd9vs60eb5hjoqcqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBArNopJ1-WwVt2rs4USH_saN_6XNw4O8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59230121200-a1ufiqpfc0lpu1kd9vs60eb5hjoqcqm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
